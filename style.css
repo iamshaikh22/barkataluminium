@@ -1,0 +1,36 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+
+
+/* What Our clients say  */
+body{
+  background-color:#eee;
+}
+
+.card{
+  
+  border:none;
+}
+
+.user-content p{
+  margin-top:5px;
+  font-size:12px;
+}
+
+
+.ratings i{
+  color:blue;
+}
+
+
+ @media screen and (max-width: 1000px) {
+    
+  }
+  @media screen and (max-width: 800px) {
+    
+  }
+  @media screen and (max-width: 600px) {
+    .carasoul-caption,h2,h3{
+      font-size: 15px;
+    }
+    
+  } 
